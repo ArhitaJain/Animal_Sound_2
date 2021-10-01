@@ -1,0 +1,28 @@
+body{
+    background-color: teal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header_div{
+    background-color:dimgray ;
+    height:120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer{
+    background-color:lightslategrey;
+    height: 50px;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.main_div{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: teal;
+}
